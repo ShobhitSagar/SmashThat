@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smash That</string>
+    <string name="click_me">Click me!</string>
+    <string name="score">SCORE : 0</string>
+    <string name="infinite_game">Infinite game</string>
+    <string name="time_game">Time game</string>
+</resources>
